@@ -6,5 +6,8 @@
   <li>CSS</li>
 </ul>
 
-<img src="https://github.com/helioborges164/easy-shopping/blob/main/assets/desktop.png?raw=true">
-<img src="">
+<div display: flex>
+  <img src="https://github.com/helioborges164/easy-shopping/blob/main/assets/desktop.png?raw=true" width=750px height=465px>
+<img src="https://github.com/helioborges164/easy-shopping/blob/main/assets/mobile.png?raw=true">
+</div>
+
